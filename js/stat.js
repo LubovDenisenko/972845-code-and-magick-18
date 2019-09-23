@@ -15,7 +15,6 @@ var getMaxOfArray = function (numArray) {
   return Math.max.apply(null, numArray);
   };
 
-
 var renderStatistics = function (ctx, names, times){
 
 var createCloud = function() {
